@@ -1,2 +1,3 @@
 # The-Maze
-![MAZE](https://github.com/FadyAwad/The-Maze/assets/103905338/fef5cb21-2f03-41a6-9910-4d2c1ef49821)
+![MAZE](https://github.com/FadyAwad/The-Maze/assets/103905338/ed46b464-2447-4e3d-8745-d79bb460e50a)
+
